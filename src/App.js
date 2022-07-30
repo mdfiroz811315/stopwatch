@@ -4,7 +4,6 @@ import StopWatch from './components/stopwatch/stopwatch';
 function App() {
 return (
 	<div className="App">
-		stopwatch
 	<StopWatch/>
 	</div>
 );
